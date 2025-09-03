@@ -49,6 +49,9 @@
 <a href="https://wa.me/+250785387051" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="70">
 </a>
+<a href="https://www.X.com//iranzi_alain" target="_blank">
+  <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" width="70">
+</a>
 
 </div>
 
