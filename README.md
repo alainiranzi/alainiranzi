@@ -2,10 +2,10 @@
 <h1 font-color="blue">My name is <span>Alain Iranzi</span></h1></div>
 <p align="center">Software Developer
   
-- 👨‍💻 I am a **Software Developer**.  
-- 🌱 I’m currently working on my **portfolio website**.  
+-  I am a **Software Developer**.  
+-   I’m currently working on my **portfolio website**.  
 - 🤝 I’m looking to collaborate with other developers.  
-- 💬 Ask me about anything. 
+-  Ask me about anything. 
 </p>
 
 ---
