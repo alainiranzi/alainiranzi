@@ -1,8 +1,10 @@
 <div align="center"><img src="./My Profile/now.jpg" width="950" height="290";">
-<h1 font-color="blue">My name is <span>Alain Iranzi</span></h1></div>
-<p align="center">Software Developer
+<h1 font-color="blue">My name is <span>Alain Iranzi</span></h1></div> 
+<div align="center"; color="black">
+  <img src="./im_software_developer.gif" alt="I'm a Software Developer" />
+</div>
+
   
--  I am a **Software Developer**.  
 -   I’m currently working on my **portfolio website**.  
 - 🤝 I’m looking to collaborate with other developers.  
 -  Ask me about anything. 
