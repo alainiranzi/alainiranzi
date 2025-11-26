@@ -2,15 +2,24 @@
 <h1 align="center" , font color="#1E90FF">My name is Alain Iranzi
 </h1>
 
-  <img src="./im_software_developer_black.gif" alt="I'm a Software Developer" />
+ <div align="center">
+  
+
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=0000FF&width=400&lines=Fullstack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
+  </h1>
 </div>
 
 
-  
+
+
+  <div align="left">
+    
 -  I’m currently working on my **portfolio website**.  
 -  I’m looking to collaborate with other developers.  
 -  Ask me about anything. 
-</p>
+  </div>
+
 
 ---
 
