@@ -32,9 +32,10 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alainiranzi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alainiranzi&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alainiranzi&show_icons=true&theme=radical&v=20251126)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alainiranzi&layout=compact&theme=radical&v=20251126)  
 </div>
+
 
 <div align="center">
 <h2 align="center"><strong> You may reach out to me via: </strong></h2>
