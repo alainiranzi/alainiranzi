@@ -1,12 +1,14 @@
 <div align="center"><img src="./My Profile/now.jpg" width="950" height="290";">
-<h1 font-color="blue">My name is <span>Alain Iranzi</span></h1></div> 
-<div align="center"; color="black">
-  <img src="./im_software_developer.gif" alt="I'm a Software Developer" />
+<h1 align="center" , font color="#1E90FF">My name is Alain Iranzi
+</h1>
+
+  <img src="./im_software_developer_black.gif" alt="I'm a Software Developer" />
 </div>
 
+
   
--   I’m currently working on my **portfolio website**.  
-- 🤝 I’m looking to collaborate with other developers.  
+-  I’m currently working on my **portfolio website**.  
+-  I’m looking to collaborate with other developers.  
 -  Ask me about anything. 
 </p>
 
@@ -65,6 +67,8 @@
 </a>
 
 </div>
+
+---
 
    
 
