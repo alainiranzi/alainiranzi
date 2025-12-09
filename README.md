@@ -42,9 +42,9 @@
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alainiranzi&show_icons=true&theme=radical)
 
 
-![GitHub Stats](https://stats.doob.dev/api/github-stats?username=alainiranzi&theme=radical)
 
 
 
