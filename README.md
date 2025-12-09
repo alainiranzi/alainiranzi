@@ -43,11 +43,19 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alainiranzi&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alainiranzi&layout=compact&theme=radical" height="170" alt="Top Languages" />
-</div>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=alainiranzi&show_icons=true&theme=radical" 
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainiranzi&layout=compact&theme=radical" 
+  height="170"
+/>
+
+
+
+
 
 
 
