@@ -1,0 +1,42 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight
+  workflow_dispatch: # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install github-readme-stats
+
+      - name: Generate GitHub Stats
+        run: |
+          npx github-readme-stats generate \
+            --username alainiranzi \
+            --theme radical \
+            --show-icons true \
+            --output ./assets/stats/github-stats.svg
+
+          npx github-readme-stats generate-langs \
+            --username alainiranzi \
+            --theme radical \
+            --output ./assets/stats/top-langs.svg
+
+      - name: Commit stats
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add ./assets/stats/github-stats.svg ./assets/stats/top-langs.svg
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
