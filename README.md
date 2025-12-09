@@ -43,21 +43,8 @@
 </div>
 
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=alainiranzi&show_icons=true&theme=radical" 
-  height="170"
-/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainiranzi&layout=compact&theme=radical" 
-  height="170"
-/>
-
-
-
-
-
-
+![GitHub Stats](https://stats.doob.dev/api/github-stats?username=alainiranzi&theme=radical)
 
 
 
