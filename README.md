@@ -42,6 +42,10 @@
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alainiranzi&show_icons=true&theme=radical)
+
+
+
 
 <div align="center">
 <h2 align="center"><strong> You may reach out to me via: </strong></h2>
@@ -68,6 +72,9 @@
 </div>
 
 ---
+
+
+
 
    
 
