@@ -45,6 +45,8 @@
 
 </div>
 
+<p align="center"> <a href="https://github.com/alainiranzi"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alainiranzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+
 <img 
 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alainiranzi&layout=compact&langs_count=8&theme=dark&hide=html" 
 width="500"
