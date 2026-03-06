@@ -45,17 +45,10 @@
 
 </div>
 
-
-
-<p align="center">
-  <a href="https://github.com/alainiranzi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alainiranzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alainiranzi&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</p>
-
-![GitHub language count](https://img.shields.io/github/languages/count/username/repo)
-![GitHub top language](https://img.shields.io/github/languages/top/username/repo)
+<img 
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alainiranzi&layout=compact&langs_count=8&theme=dark&hide=html" 
+width="500"
+/>
 
 
 <div align="center">
