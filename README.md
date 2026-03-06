@@ -54,6 +54,9 @@
   </a>
 </p>
 
+![GitHub language count](https://img.shields.io/github/languages/count/username/repo)
+![GitHub top language](https://img.shields.io/github/languages/top/username/repo)
+
 
 <div align="center">
 <h2 align="center"><strong> You may reach out to me via: </strong></h2>
