@@ -15,7 +15,7 @@
 
   <div align="left">
     
--  I’m currently working part-time at [KitechRW](https://kitechrw.com).  
+-  I’m currently working part-time at [KitechRW](https://github.com/KitechRW).  
 -  I’m looking to collaborate with other developers.  
 -  Ask me about anything. 
   </div>
