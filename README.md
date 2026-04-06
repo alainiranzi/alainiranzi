@@ -1,5 +1,5 @@
 <div align="center"><img src="./My Profile/now.jpg" width="950" height="290";">
-<h1 align="center" , font color="#1E90FF">My name is Alain Iranzi
+<h1 align="center" , font color="#1E90FF"> Alain Iranzi
 </h1>
 
  <div align="center">
